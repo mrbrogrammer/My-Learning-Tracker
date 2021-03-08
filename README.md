@@ -2,8 +2,6 @@
 
 A complete log of my web development skills, learning, resources, highlights, interests, and everything to do with my learning. It's a way to keep track, organise, and share my learning.
 
-[Portfolio](https://www.sykhoudeib.com/ "sykhoudeib.com") || [Blog](https://www.blog.sykhoudeib.com/ "My web dev articles")
-
 ----
 
 ## Skills
@@ -13,11 +11,11 @@ A complete log of my web development skills, learning, resources, highlights, in
 |               Skill              | 1<br>Introduction | 2<br>Occasional Use    | 3<br>Regular use |
 |:-------------------------------- |:-----------------:|:----------------------:|:----------------:|
 |**React**                         | ![done][done]     | ![done][done]          | ![done][done]    |
-|**React hooks**                   | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Redux**                         | ![done][done]     | ![done][done]          | ![done][done]    |
+|**React hooks**                   | ![done][done]     | ![done][done]          |                  |
+|**Redux**                         |                   |                        |                  |
 |**JavaScript**                    | ![done][done]     | ![done][done]          | ![done][done]    |
-|**ES6**                           | ![done][done]     | ![done][done]          | ![done][done]    |
-|**Next.js**                       | ![done][done]     | ![done][done]          | ![done][done]    |
+|**ES6**                           |                   |                        |                  |
+|**Next.js**                       |                   |                        |                  |
 |**HTML**                          | ![done][done]     | ![done][done]          | ![done][done]    |
 |**CSS**                           | ![done][done]     | ![done][done]          | ![done][done]    |
 |**Git**                           | ![done][done]     | ![done][done]          | ![done][done]    |
@@ -181,7 +179,7 @@ I'm currently interested in/excited about:
 
 + React
 + JavaScript best practice
-+ Object Oriented Programming
++ Object Oriented Programming with python
 
 ----
 
@@ -193,25 +191,25 @@ It is an almost exact copy of [Ginny Fahs'](https://twitter.com/ginnyfahs) ["Thi
 
 
 * [x] Open the computer’s terminal
-* [x] Use a text editor (bonus points if you have a specific reason for choosing it)
-* [x] Use some keyboard shortcuts
-* [x] Write tests for your code
-* [x] Help another web developer with something they’re having trouble with
-* [x] Attend an event about web development
-* [x] Follow developers you admire on social media
-* [x] Read a book about coding
+* [ ] Use a text editor (bonus points if you have a specific reason for choosing it)
+* [ ] Use some keyboard shortcuts
+* [ ] Write tests for your code
+* [ ] Help another web developer with something they’re having trouble with
+* [ ] Attend an event about web development
+* [ ] Follow developers you admire on social media
+* [ ] Read a book about coding
 * [x] Open your browser console
 * [x] Get data from an API
 * [ ] Hide API keys from the public
-* [x] Post a question on Stack Overflow
+* [ ] Post a question on Stack Overflow
 * [x] Push code to GitHub or GitLab or BitBucket
 * [ ] Speak about something web development-related at an event
-* [x] Complete a technical interview
+* [ ] Complete a technical interview
 * [x] Participate in a hackathon
 * [x] Deploy a project
 * [ ] Ship your project to a store
 * [ ] Contribute to open source
-* [x] Get paid to code
+* [ ] Get paid to code
 * [x] When people ask what you do, respond saying you’re a developer :)
 
 ----
