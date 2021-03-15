@@ -1,0 +1,108 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Search</title>
+        <style>
+                body { 
+                    font-size: 14px;
+                    font-family: Arial, Helvetica, sans-serif;
+                    color: #222;
+                }
+
+                input { 
+                    background-color: var(--search-box-bg, white);
+                    border: none;
+                    border-radius: calc(0.5 * var(--ntp-realbox-height));
+                    color: var(--search-box-text);
+                    font-size: 16px;
+                    height: 100%;
+                    outline: none;
+                    padding-inline-end: 40px;
+                    padding-inline-start: 52px;
+                    position: relative;
+                    width: 100%;
+                }
+
+                button {
+                    width: 400px;
+                    padding: 10px 20px;
+                    background-color: #eee;
+                    color: #222;
+                    border: solid 2px;
+                    border-color: #222;
+                    font-weight: bold;
+                    font-size: 1rem;
+                    margin-top: 20px;
+                    border-radius: 100px;
+                }
+
+                img {
+                    width: '100px';
+                    margin-bottom: '30px'
+                }
+
+                .links {
+                    display: flex;
+                    align-items: center;
+                    padding: 6px;
+                    height: 60px;
+                    flex-shrink: 0;
+                    box-sizing: border-box;
+                    
+                }
+
+                .images { 
+                    padding-left: 32px;
+                    box-sizing: border-box;
+                    height: 48px;
+                    line-height: normal;
+                    padding: 0 4px;
+                    flex: 0 0 auto;
+                    justify-content: flex-end;
+                    vertical-align: middle;
+                    white-space: nowrap;
+                    align-items: center;
+
+                }
+
+                .logo {
+                    display: flex;
+                    flex-direction: column;
+                    align-items: center;
+                    min-height: 92px;
+                    max-height: 290px;
+                    height: calc(100% - 560px);
+                }
+
+                form {
+                    display: block;
+                    margin-top: 0em;
+                }
+
+                .wrapper {
+                    padding: 20px;
+                    max-height: 160px;
+                    display: block;
+                    align-items: center;
+                }
+        </style>
+    </head>
+    <body>
+        <div class="links">
+            <div class="images">
+                <a style="float: right !important;" href="#">images</a>
+            </div>
+        </div>
+        </div>
+        <div class="logo">
+            <img alt="Google" height="92" src="https://www.google.com/images/branding/googlelogo/2x/googlelogo_color_272x92dp.png"/>
+        </div>
+        <div class="wrapper">
+            <form action="https://google.com/search">
+                <input type="text" name="q" placeholder="Search Google or type URL">
+                <button type="submit" value="Google Search">
+                <button type="submit" value="I'm Feeling Lucky">
+            </form>
+        </div>
+    </body>
+</html> 
